@@ -1,0 +1,27 @@
+{
+  "name": "react-native-injectable-webview",
+  "version": "0.1.0",
+  "description": "React native webview extension that allows the injection of javascript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rseemann/react-native-injectable-webview.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "webview",
+    "injection",
+    "javascript"
+  ],
+  "author": "Rafael Seemann (rseemann)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rseemann/react-native-injectable-webview/issues"
+  },
+  "homepage": "https://github.com/rseemann/react-native-injectable-webview#readme"
+}
